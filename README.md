@@ -22,14 +22,15 @@ A secure, customizable password generator web app built using **HTML, CSS, and J
 
 ## 🌐 Live Demo
 
-👉 [Try it here](https://yourusername.github.io/secure-password-generator/)  
-*(Replace `yourusername` with your GitHub username after enabling GitHub Pages)*
+👉 (https://agrawalurvashi2002-cpu.github.io/secure-password-generator/)  
+
 
 ---
 
 ## 🖼️ Screenshot
 
-![Screenshot](screenshot.png)
+
+<img width="691" height="649" alt="Screenshot 2025-08-08 031438" src="https://github.com/user-attachments/assets/5c2797a5-349b-4eab-917e-b94b71b2bf37" />
 
 ---
 
