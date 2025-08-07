@@ -20,12 +20,6 @@ A secure, customizable password generator web app built using **HTML, CSS, and J
 
 ---
 
-## 🌐 Live Demo
-
-👉 (https://agrawalurvashi2002-cpu.github.io/secure-password-generator/)  
-
-
----
 
 ## 🖼️ Screenshot
 
