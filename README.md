@@ -32,4 +32,4 @@ A secure, customizable password generator web app built using **HTML, CSS, and J
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/secure-password-generator.git
+   git clone https://github.com/agrawalurvashi2002-cpu/secure-password-generator.git
